@@ -6,9 +6,18 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-pile-mod-title.jpg" width="90%"><br>
 
 ## Usage
-Craft and Harvest.
+Craft and Harvest.<br>
+<img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-01.jpg" width="44%"> <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-02.jpg" width="44%"><br>
 
-<img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-01.jpg" width="44%"> <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-02.jpg" width="44%">
+There are the following items in Mod now. Do you have any other items you want?
+- Stick * 10 `<<=== Harvest ===|=== Craft ===>>` stick pile 10
+- Stick * 50 `<<=== Harvest ===|=== Craft ===>>` stick pile 50
+- Fir firewood * 5 `<<=== Harvest ===|=== Craft ===>>` Fir firewood pile 5
+- Cedar firewood * 5 `<<=== Harvest ===|=== Craft ===>>` Cedar firewood pile 5
+- Coal * 4 `<<=== Harvest ===|=== Craft ===>>` Coal Pile 4
+- Cattail stalk 5 `<<=== Harvest ===|=== Craft ===>>` Cattail pile 5
+
+
 
 ## Stack
 Use the "Conform to surface" shortcut key when using this mod with the "Placing Anywhere Mod". It should be possible to place things in a short time.
