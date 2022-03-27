@@ -3,15 +3,17 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
 - This mod add some blueprints for stacked items. (e.g., crafting one stick pile from 10 sticks)<br>
-<img src="aaa.jpg" width="90%"><br>
+<img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-pile-mod-title.jpg" width="90%"><br>
 
 ## Usage
 Craft and Harvest.
-<img src="bbb.jpg" width="44%"> <img src="bbb.jpg" width="44%">
+
+<img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-01.jpg" width="44%"> <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-02.jpg" width="44%">
 
 ## Stack
 Use the "Conform to surface" shortcut key when using this mod with the "Placing Anywhere Mod". It should be possible to place things in a short time.
-<img src="bbb.jpg" width="90%"><br>
+
+<img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-03.jpg" width="90%"><br>
 
 <!--
 ### Finding Items
