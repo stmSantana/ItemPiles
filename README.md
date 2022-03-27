@@ -10,13 +10,13 @@ Craft and Harvest.<br>
 <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-01.jpg" width="44%"> <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-02.jpg" width="44%"><br>
 
 There are the following items in Mod now. Do you have any other items you want?
-- Stick * 10 `<<=== Harvest ===|=== Craft ===>>` stick pile 10
-- Stick * 50 `<<=== Harvest ===|=== Craft ===>>` stick pile 50
-- Fir firewood * 5 `<<=== Harvest ===|=== Craft ===>>` Fir firewood pile 5
-- Cedar firewood * 5 `<<=== Harvest ===|=== Craft ===>>` Cedar firewood pile 5
-- Coal * 4 `<<=== Harvest ===|=== Craft ===>>` Coal Pile 4
-- Cattail stalk 5 `<<=== Harvest ===|=== Craft ===>>` Cattail pile 5
-
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StickPile010.png"> Stick * 10 `<------>` stick pile 10
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StickPile050.png"> Stick * 50 `<------>` stick pile 50
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StickPile050F.png"> Stick * 50 `<------>` stick pile 50 F
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/HardwoodPile005.png"> Fir firewood * 5 `<------>` Fir firewood pile 5
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/SoftwoodPile005.png"> Cedar firewood * 5 `<------>` Cedar firewood pile 5
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/CoalPile004.png"> Coal * 4 `<------>` Coal Pile 4
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/CattailPile005.png"> Cattail stalk 5 `<------>` Cattail pile 5
 
 
 ## Stack
