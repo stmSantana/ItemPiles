@@ -3,7 +3,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
 - This mod add some blueprints for stacked items. (e.g., crafting one stick pile from 10 sticks)<br>
-<img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-pile-mod-title.jpg" width="90%"><br>
+<img src="https://raw.githubusercontent.com/stmSantana/ItemPiles/main/Images/item-pile-mod-title.jpg" width="90%"><br>
 
 ## Usage
 Craft and Harvest.<br>
