@@ -9,7 +9,6 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 Craft and Harvest.<br>
 <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-01.jpg" width="44%"> <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/item-piles-mod-02.jpg" width="44%"><br>
 
-There are the following items in Mod now. Do you have any other items you want?
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StickPile010.png"> Stick * 10 `<------>` stick pile 10
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StickPile050.png"> Stick * 50 `<------>` stick pile 50
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StickPile050F.png"> Stick * 50 `<------>` stick pile 50 F
