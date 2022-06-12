@@ -47,7 +47,10 @@ The item is fully integrated into the console and will appear in the auto-comple
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
 * Install the latest version of [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere) .
-* Download latest version of `ItemPiles.modcomponent` from the [releases page](https://github.com/stmSantana/ItemPiles/releases/latest).
+* Download latest version of `ItemPiles.modcomponent` from the [releases page](https://github.com/stmSantana/ItemPiles/releases/latest).<br>
+You can also download "ItemPiles_NotStackable_ver.modcomponent" instead, but it's usually not needed.<br>
+(I added stackable behavior to item piles. This will stack items of the same type into one inventory icon. In addition, you can craft multiple at once.<br>  **"ItemPiles_NotStackable_ver.modcomponent" is a version that does not have that behavior.**)
+
 * Move a **ItemPiles.modcomponent** file to the Mods folder.<br>
 <!--
 * **Note: Zip files should not be moved to the Mods folder!**
